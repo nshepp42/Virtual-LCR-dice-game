@@ -1,0 +1,17 @@
+# Build output
+/lcr
+/build/
+*.exe
+*.o
+*.obj
+*.pdb
+*.ilk
+
+# Visual Studio user settings
+/.vs/
+*.user
+
+# Operating system files
+desktop.ini
+Thumbs.db
+.DS_Store
